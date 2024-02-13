@@ -1,2 +1,2 @@
 # Project_1
-P1 ITMD361 -- Personal Resume
+P1 ITMD361 -- Homepage
